@@ -19,7 +19,7 @@ Modern arayüzlü, IDM benzeri indirme yöneticisi. Çok bağlantılı segmentli
 | Proje | Ne yapar |
 | --- | --- |
 | [**WinGuard**](https://github.com/Fatal-IV/WinGuard) | Windows 11 dizüstü bilgisayarını hırsızlığa karşı korur |
-| [**Amelia Tab**](https://github.com/Fatal-IV/amelia-tab) | Premium tasarımlı, özelleştirilebilir tarayıcı yeni sekme sayfası |
+| [**Amelia Tab**](https://github.com/Fatal-IV/amelia-tab) | Akıllı, premium tasarımlı tarayıcı eklentisi: özelleştirilebilir yeni sekme paneli |
 | [**Ağ Bağlantıları Yöneticisi**](https://github.com/Fatal-IV/AgBaglantilariYoneticisi-Releases) | Windows ağ bağdaştırıcılarını tek yerden yönetir |
 
 ## Araçlar
@@ -28,5 +28,6 @@ Modern arayüzlü, IDM benzeri indirme yöneticisi. Çok bağlantılı segmentli
 ![Tauri](https://img.shields.io/badge/Tauri-2b2d31?style=flat-square&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-2b2d31?style=flat-square&logo=react&logoColor=61dafb)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2b2d31?style=flat-square&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/JavaScript-2b2d31?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![C#](https://img.shields.io/badge/C%23-2b2d31?style=flat-square&logo=csharp&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-2b2d31?style=flat-square&logo=windows&logoColor=0078d4)
