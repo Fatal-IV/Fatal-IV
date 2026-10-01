@@ -16,11 +16,13 @@ Modern arayüzlü, IDM benzeri indirme yöneticisi. Çok bağlantılı segmentli
 
 ## Diğer projeler
 
-| Proje | Ne yapar |
-| --- | --- |
-| [**WinGuard**](https://github.com/Fatal-IV/WinGuard) | Windows 11 dizüstü bilgisayarını hırsızlığa karşı korur |
-| [**Amelia Tab**](https://github.com/Fatal-IV/amelia-tab) | Akıllı, premium tasarımlı tarayıcı eklentisi: özelleştirilebilir yeni sekme paneli |
-| [**Ağ Bağlantıları Yöneticisi**](https://github.com/Fatal-IV/AgBaglantilariYoneticisi-Releases) | Windows ağ bağdaştırıcılarını tek yerden yönetir |
+<table>
+  <tr>
+    <td><a href="https://github.com/Fatal-IV/WinGuard"><img src="assets/card-winguard.svg" width="320" alt="WinGuard"></a></td>
+    <td><a href="https://github.com/Fatal-IV/amelia-tab"><img src="assets/card-amelia.svg" width="320" alt="Amelia Tab"></a></td>
+    <td><a href="https://github.com/Fatal-IV/AgBaglantilariYoneticisi-Releases"><img src="assets/card-network.svg" width="320" alt="Ağ Bağlantıları Yöneticisi"></a></td>
+  </tr>
+</table>
 
 ## Araçlar
 

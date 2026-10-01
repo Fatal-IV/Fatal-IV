@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="150" viewBox="0 0 320 150" role="img" aria-label="Ağ Bağlantıları Yöneticisi">
+  <rect x="1" y="1" width="318" height="148" rx="16" fill="#2b2d31" stroke="#3f4147"/>
+  <rect x="20" y="20" width="44" height="44" rx="12" fill="#5865f2" fill-opacity=".18"/>
+  <g fill="none" stroke="#5865f2" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="translate(30 30)"><rect x="9" y="2" width="6" height="6" rx="1"/><rect x="2" y="16" width="6" height="6" rx="1"/><rect x="16" y="16" width="6" height="6" rx="1"/><path d="M12 8v4M5 16v-4h14v4"/></g>
+  <text x="20" y="96" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#f2f3f5">Ağ Bağlantıları Yöneticisi</text>
+  <text x="20" y="120" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13.5" fill="#b5bac1">Windows ağ bağdaştırıcılarını</text>
+  <text x="20" y="138" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13.5" fill="#b5bac1">tek yerden yönetir</text>
+</svg>
