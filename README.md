@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Fatal" width="100%">
+  <img src="assets/banner.svg?v=3" alt="Fatal" width="100%">
 </p>
 
 <p align="center">
@@ -9,10 +9,10 @@
 <h2 align="center">Projeler</h2>
 
 <p align="center">
-  <a href="https://github.com/Fatal-IV/download-manager-releases"><img src="assets/card-downloadmanager.svg" width="320" alt="İndirme Yöneticisi"></a>
-  <a href="https://github.com/Fatal-IV/WinGuard"><img src="assets/card-winguard.svg" width="320" alt="WinGuard"></a>
-  <a href="https://github.com/Fatal-IV/amelia-tab"><img src="assets/card-amelia.svg" width="320" alt="Amelia Tab"></a>
-  <a href="https://github.com/Fatal-IV/AgBaglantilariYoneticisi-Releases"><img src="assets/card-network.svg" width="320" alt="Ağ Bağlantıları Yöneticisi"></a>
+  <a href="https://github.com/Fatal-IV/download-manager-releases"><img src="assets/card-downloadmanager.svg?v=3" width="320" alt="İndirme Yöneticisi"></a>
+  <a href="https://github.com/Fatal-IV/WinGuard"><img src="assets/card-winguard.svg?v=3" width="320" alt="WinGuard"></a>
+  <a href="https://github.com/Fatal-IV/amelia-tab"><img src="assets/card-amelia.svg?v=3" width="320" alt="Amelia Tab"></a>
+  <a href="https://github.com/Fatal-IV/AgBaglantilariYoneticisi-Releases"><img src="assets/card-network.svg?v=3" width="320" alt="Ağ Bağlantıları Yöneticisi"></a>
 </p>
 
 <h2 align="center">İndir</h2>
