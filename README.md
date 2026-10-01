@@ -6,23 +6,21 @@
   Küçük, hızlı ve sade masaüstü araçları geliştiriyorum. Çoğu Windows için, hepsi kendi ihtiyacımdan doğdu.
 </p>
 
-## Öne çıkan proje
-
-### ⬇️ İndirme Yöneticisi
-Modern arayüzlü, IDM benzeri indirme yöneticisi. Çok bağlantılı segmentli indirme, duraklat/devam, tarayıcı eklentisi, sistem tepsisi, hız sınırı, zamanlayıcı, SHA-256 doğrulama ve otomatik güncelleme.
-
-[![Son sürüm](https://img.shields.io/github/v/release/Fatal-IV/download-manager-releases?style=for-the-badge&color=5865f2&labelColor=2b2d31&label=son%20s%C3%BCr%C3%BCm)](https://github.com/Fatal-IV/download-manager-releases/releases/latest)
-[![İndir](https://img.shields.io/badge/Windows%20i%C3%A7in%20indir-5865f2?style=for-the-badge&labelColor=2b2d31&logo=windows&logoColor=white)](https://github.com/Fatal-IV/download-manager-releases/releases/latest/download/IndirmeYoneticisi_x64-setup.exe)
-
-## Diğer projeler
+## Projeler
 
 <table>
   <tr>
+    <td><a href="https://github.com/Fatal-IV/download-manager-releases"><img src="assets/card-downloadmanager.svg" width="320" alt="İndirme Yöneticisi"></a></td>
     <td><a href="https://github.com/Fatal-IV/WinGuard"><img src="assets/card-winguard.svg" width="320" alt="WinGuard"></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/Fatal-IV/amelia-tab"><img src="assets/card-amelia.svg" width="320" alt="Amelia Tab"></a></td>
     <td><a href="https://github.com/Fatal-IV/AgBaglantilariYoneticisi-Releases"><img src="assets/card-network.svg" width="320" alt="Ağ Bağlantıları Yöneticisi"></a></td>
   </tr>
 </table>
+
+[![Son sürüm](https://img.shields.io/github/v/release/Fatal-IV/download-manager-releases?style=for-the-badge&color=5865f2&labelColor=2b2d31&label=%C4%B0ndirme%20Y%C3%B6neticisi)](https://github.com/Fatal-IV/download-manager-releases/releases/latest)
+[![İndir](https://img.shields.io/badge/Windows%20i%C3%A7in%20indir-5865f2?style=for-the-badge&labelColor=2b2d31&logo=windows&logoColor=white)](https://github.com/Fatal-IV/download-manager-releases/releases/latest/download/IndirmeYoneticisi_x64-setup.exe)
 
 ## Araçlar
 
