@@ -8,6 +8,7 @@
       <stop offset="0" stop-color="#5865f2"/><stop offset="1" stop-color="#9aa3ff"/>
     </linearGradient>
     <clipPath id="face"><circle cx="120" cy="120" r="78"/></clipPath>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#fff" fill-opacity=".07"/></pattern>
     <clipPath id="frame"><rect width="800" height="240" rx="22"/></clipPath>
   </defs>
   <style>
@@ -28,6 +29,8 @@
   <rect width="800" height="240" rx="22" fill="#2b2d31"/>
   <g clip-path="url(#frame)">
     <rect width="800" height="240" fill="url(#glow)"/>
+    <rect width="800" height="240" fill="url(#dots)"/>
+    <rect width="800" height="3" fill="url(#ring)"/>
     <circle class="blob" cx="640" cy="40" r="110" fill="#5865f2" fill-opacity=".12"/>
     <circle class="blob" style="animation-delay:-4s" cx="720" cy="210" r="80" fill="#9aa3ff" fill-opacity=".08"/>
   </g>

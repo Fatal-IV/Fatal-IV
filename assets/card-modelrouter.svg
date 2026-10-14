@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="190" viewBox="0 0 816 190" role="img" aria-label="Model Router">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5865f2" stop-opacity=".22"/><stop offset="1" stop-color="#5865f2" stop-opacity="0"/></linearGradient>
+    <linearGradient id="e" x1="0" x2="1"><stop offset="0" stop-color="#5865f2"/><stop offset="1" stop-color="#9aa3ff"/></linearGradient>
+    <clipPath id="c"><rect x="1" y="1" width="814" height="188" rx="18"/></clipPath>
+  </defs>
+  <style>
+    @keyframes sweep{to{stroke-dashoffset:-1000}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+    @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    @keyframes orb{0%,100%{transform:translate(0,0)}50%{transform:translate(-14px,10px)}}
+    .sweep{stroke-dasharray:140 860;animation:sweep 8s linear infinite}
+    .icon{animation:bob 3.2s ease-in-out infinite}
+    .orb{animation:orb 7s ease-in-out infinite}
+    .txt{animation:fade .7s both}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect x="1" y="1" width="814" height="188" rx="18" fill="#2b2d31" stroke="#3f4147"/>
+  <g clip-path="url(#c)"><rect width="816" height="190" fill="url(#g)"/><circle class="orb" cx="786" cy="180" r="70" fill="#5865f2" fill-opacity=".12"/><rect x="1" y="1" width="814" height="3" fill="url(#e)"/></g>
+  <rect class="sweep" x="1" y="1" width="814" height="188" rx="18" fill="none" stroke="#9aa3ff" stroke-width="1.6" pathLength="1000"/>
+  <rect x="24" y="22" width="48" height="48" rx="14" fill="#5865f2" fill-opacity=".18"/>
+  <g class="icon"><g fill="none" stroke="#9aa3ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(34 32)"><circle cx="5" cy="12" r="2"/><circle cx="19" cy="5" r="2"/><circle cx="19" cy="19" r="2"/><path d="M7 12h4c3 0 3-7 6-7M11 12c3 0 3 7 6 7"/></g></g>
+  <rect x="742" y="20" width="52" height="22" rx="11" fill="#5865f2"/><text x="768" y="35" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#fff">YENİ</text>
+  <text class="txt" x="24" y="90" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#f2f3f5">Model Router</text>
+  <text class="txt" style="animation-delay:.1s" x="24" y="112" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13.5" fill="#b5bac1">Claude Code eklentisi: kodlama isteklerini boyut ve etki alanına göre</text>
+  <text class="txt" style="animation-delay:.18s" x="24" y="130" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13.5" fill="#b5bac1">Haiku, Sonnet, Opus veya Fable alt ajanına otomatik yönlendirir.</text>
+  <rect x="24" y="148" width="90.6" height="22" rx="11" fill="#5865f2" fill-opacity=".14"/><text x="69.3" y="163" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#9aa3ff">Claude Code</text><rect x="120.6" y="148" width="64.19999999999999" height="22" rx="11" fill="#5865f2" fill-opacity=".14"/><text x="152.7" y="163" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#9aa3ff">Node.js</text><rect x="190.79999999999998" y="148" width="37.8" height="22" rx="11" fill="#5865f2" fill-opacity=".14"/><text x="209.7" y="163" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#9aa3ff">MIT</text>
+</svg>
