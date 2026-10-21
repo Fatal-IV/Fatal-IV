@@ -1,19 +1,16 @@
 <p align="center">
-  <img src="assets/banner.svg?v=4" alt="Fatal" width="100%">
-</p>
-
-<p align="center">
-  Küçük, hızlı ve sade araçlar geliştiriyorum.<br>Masaüstü uygulamalarından Claude Code eklentilerine, hepsi kendi ihtiyacımdan doğdu.
+  <img src="assets/banner.svg?v=5" alt="Fatal" width="100%">
 </p>
 
 <h2 align="center">Projeler</h2>
 
 <p align="center">
-  <a href="https://github.com/Fatal-IV/model-router"><img src="assets/card-modelrouter.svg?v=4" width="816" alt="Model Router"></a><br>
-  <a href="https://github.com/Fatal-IV/download-manager-releases"><img src="assets/card-downloadmanager.svg?v=4" width="400" alt="İndirme Yöneticisi"></a>
-  <a href="https://github.com/Fatal-IV/WinGuard-releases"><img src="assets/card-winguard.svg?v=4" width="400" alt="WinGuard"></a><br>
-  <a href="https://github.com/Fatal-IV/amelia-tab"><img src="assets/card-amelia.svg?v=4" width="400" alt="Amelia Tab"></a>
-  <a href="https://github.com/Fatal-IV/AgBaglantilariYoneticisi-Releases"><img src="assets/card-network.svg?v=4" width="400" alt="Ağ Bağlantıları Yöneticisi"></a>
+  <a href="https://github.com/Fatal-IV/model-router"><img src="assets/t-model-router.svg?v=5" width="152" alt="Model Router"></a>
+  <a href="https://github.com/Fatal-IV/download-manager-releases"><img src="assets/t-download.svg?v=5" width="152" alt="İndirme Yöneticisi"></a>
+  <a href="https://github.com/Fatal-IV/WinGuard-releases"><img src="assets/t-winguard.svg?v=5" width="152" alt="WinGuard"></a>
+  <a href="https://github.com/Fatal-IV/amelia-tab"><img src="assets/t-amelia.svg?v=5" width="152" alt="Amelia Tab"></a>
+  <a href="https://github.com/Fatal-IV/AgBaglantilariYoneticisi-Releases"><img src="assets/t-network.svg?v=5" width="152" alt="Ağ Bağlantıları Yöneticisi"></a><br>
+  <img src="assets/shelf.svg?v=5" width="100%" alt="">
 </p>
 
 <h2 align="center">İndir</h2>
@@ -29,21 +26,5 @@
 <h2 align="center">Katkıda Bulunan</h2>
 
 <p align="center">
-  <a href="https://github.com/vertablx"><img src="https://github.com/vertablx.png?size=160" width="80" alt="vertablx"></a><br>
-  <a href="https://github.com/vertablx"><b>güneş</b></a> · <code>@vertablx</code><br>
-  Tüm projelerimde fikirleriyle, testleriyle ve desteğiyle yanımda.
-</p>
-
-<h2 align="center">Araçlar</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-2b2d31?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Tauri-2b2d31?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
-  <img src="https://img.shields.io/badge/React-2b2d31?style=flat-square&logo=react&logoColor=61dafb" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-2b2d31?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-2b2d31?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C%23-2b2d31?style=flat-square&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Node.js-2b2d31?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js">
-  <img src="https://img.shields.io/badge/Claude%20Code-2b2d31?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Windows-2b2d31?style=flat-square&logo=windows&logoColor=0078d4" alt="Windows">
+  <a href="https://github.com/vertablx"><img src="assets/contributor.svg?v=5" width="100%" alt="Güneş (@vertablx)"></a>
 </p>
