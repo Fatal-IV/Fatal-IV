@@ -22,3 +22,7 @@
   <a href="https://github.com/Fatal-IV/model-router"><img src="https://img.shields.io/badge/Model%20Router-eklenti-5865f2?style=for-the-badge&labelColor=2b2d31&logo=anthropic&logoColor=white" alt="Model Router"></a>
   <a href="https://github.com/Fatal-IV/amelia-tab"><img src="https://img.shields.io/badge/Amelia%20Tab-kaynak%20kodu-5865f2?style=for-the-badge&labelColor=2b2d31&logo=github&logoColor=white" alt="Amelia Tab kaynak kodu"></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/vertablx"><img src="assets/t-gunes.svg?v=6" width="152" alt="güneş"></a>
+</p>
