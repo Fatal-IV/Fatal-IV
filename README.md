@@ -24,5 +24,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vertablx"><img src="assets/t-gunes.svg?v=6" width="152" alt="güneş"></a>
+  <a href="https://github.com/vertablx"><img src="assets/t-gunes.svg?v=7" width="100%" alt="güneş"></a>
 </p>
